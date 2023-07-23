@@ -20,7 +20,7 @@ Or type `pip install -r requirements.txt` to automatically install the environme
 
 ## Citation
 
-`@article{liu2023structure,
+```@article{liu2023structure,
 
   title={Structure-Sensitive Graph Dictionary Embedding for Graph Classification},
   
@@ -30,4 +30,4 @@ Or type `pip install -r requirements.txt` to automatically install the environme
   
   year={2023}
   
-} `
+} ```
