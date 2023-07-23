@@ -8,11 +8,9 @@ PyTorch implementation of Structure-Sensitive Graph Dictionary Embedding for Gra
 ## Requirements
 
 
-*pytorch=1.11.0+cu113
--torch-scatter=2.0.9
-*torch-sparse=0.6.15
--torch-gemetric=2.0.4
+* pytorch = 1.11.0+cu113
+- torch-scatter = 2.0.9
+* torch-sparse = 0.6.15
+- torch-gemetric = 2.0.4
 
-* 昵称：果冻虾仁
-- 别名：隔壁老王
-* 英文名：Jelly
+
