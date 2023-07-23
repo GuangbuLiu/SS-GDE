@@ -12,7 +12,7 @@ PyTorch implementation of Structure-Sensitive Graph Dictionary Embedding for Gra
 * scipy = 1.10.1
 * mpu = 0.23.1
 
-or type `pip install -r requirements.txt` to automatically install the environment. 
+Or type `pip install -r requirements.txt` to automatically install the environment. 
 
 ## Run
 
