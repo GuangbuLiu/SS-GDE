@@ -15,4 +15,4 @@ PyTorch implementation of Structure-Sensitive Graph Dictionary Embedding for Gra
 
 ## Run
 
-'python main.py'
+' python main.py '
