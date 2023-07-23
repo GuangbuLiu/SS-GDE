@@ -13,4 +13,6 @@ PyTorch implementation of Structure-Sensitive Graph Dictionary Embedding for Gra
 * torch-sparse = 0.6.15
 - torch-gemetric = 2.0.4
 
+## Run
 
+'python main.py'
