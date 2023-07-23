@@ -17,3 +17,12 @@ Or type `pip install -r requirements.txt` to automatically install the environme
 ## Run
 
 `python main.py --dataset=imdb_action_romance` 
+
+## Citation
+
+@article{liu2023structure,
+  title={Structure-Sensitive Graph Dictionary Embedding for Graph Classification},
+  author={Liu, Guangbu and Zhang, Tong and Wang, Xudong and Zhao, Wenting and Zhou, Chuanwei and Cui, Zhen},
+  journal={arXiv preprint arXiv:2306.10505},
+  year={2023}
+}
