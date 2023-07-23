@@ -2,6 +2,7 @@
 
 PyTorch implementation of Structure-Sensitive Graph Dictionary Embedding for Graph Classification(https://arxiv.org/abs/2306.10505)
 
+![architecture](/fig/architecture.pdf)
 
 
 ## Requirements
