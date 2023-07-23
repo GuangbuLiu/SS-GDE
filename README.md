@@ -6,8 +6,11 @@ PyTorch implementation of Structure-Sensitive Graph Dictionary Embedding for Gra
 
 ## Requirements
 
-eg:
+
 *pytorch=1.11.0+cu113
+
 *torch-scatter=2.0.9
+
 *torch-sparse=0.6.15
+
 *torch-gemetric=2.0.4
